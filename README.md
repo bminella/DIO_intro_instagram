@@ -18,5 +18,6 @@
 <img src="https://user-images.githubusercontent.com/98534865/153968006-f4cacf69-2f78-4a7e-bc16-dba24d603fca.png" width="900" > 
 <br>
 
+https://bminella.github.io/DIO_intro_instagram/
 
 Habilidades desenvolvidas: HTML + CSS!
